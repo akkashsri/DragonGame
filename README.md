@@ -1,7 +1,7 @@
 
 # Project Title
 
-This is a Dragon Run Game purely made with VanillaJS, HTML and CSS.
+This is a Dragon Run Game purely made with VanillaJS, HTML and CSS. It's a Fun Game!!
 
 
 ## Features
